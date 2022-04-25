@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "TriHorse",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 460581,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9891186071817193,
+            "y": 0.5,
+            "uniqueID": 566777,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
